@@ -1,0 +1,39 @@
+{
+  "name": "1.8.9",
+  "author": "LHX0126",
+  "version": "2.0",
+  "description": "",
+  "fileApi": "https://ck.unknow.ml/update/Yuan-Ban",
+  "files": [
+    {
+      "path": "mods/[优化]BetterFps.jar",
+      "hash": "ca71e5563ab5880ba6603f60d02350c83c827151"
+    },
+    {
+      "path": "mods/[优化]FoamFix.jar",
+      "hash": "2a1d98b8779d8b6f1935df807dcfc81cc666c5b9"
+    },
+    {
+      "path": "mods/[前置]Essential.jar",
+      "hash": "d1340b53e674fffb0bc26a15ac2cad3f9cb4614e"
+    },
+    {
+      "path": "mods/[按键显示]Keystrokes.jar",
+      "hash": "7a7025237cdd1ff5f8f6c364fcf5004ee28296ff"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.8.9"
+    },
+    {
+      "id": "forge",
+      "version": "11.15.1.2318"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_M5"
+    }
+  ]
+}
